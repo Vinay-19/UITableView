@@ -1,0 +1,6 @@
+framework module Pods_TableViewWithImages {
+  umbrella header "Pods-TableViewWithImages-umbrella.h"
+
+  export *
+  module * { export * }
+}
